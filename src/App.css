@@ -1,0 +1,24 @@
+
+#root {
+  text-align: center;
+  padding: 4rem;
+  background: coral;
+  color: #555;
+  height: 100vw;
+}
+input, button {
+  padding: 2rem;
+  color: white;
+  background-color: #555;
+  border: none;
+  margin: 0.1rem;
+  font-size: 2rem;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  text-transform: uppercase;
+  margin: 1rem 0;
+}
